@@ -1,0 +1,73 @@
+name,table,notes,desc_lower,acronym,desc_lower_2
+Chondroitin sulfate protoglycan 4,2,associated with mAb,chondroitin sulfate protoglycan 4,False,chondroitin sulfate protoglycan 4
+Nidogen-1,2,associated with mAb,nidogen-1,False,nidogen 1
+Actin,2,associated with mAb,actin,False,actin
+SPARC,2,associated with mAb,sparc,False,sparc
+Cathepsin D,2,associated with mAb,cathepsin d,False,cathepsin d
+Sulfated glycoprotein 1,2,associated with mAb,sulfated glycoprotein 1,False,sulfated glycoprotein 1
+Glucose regulated protein,2,associated with mAb,glucose regulated protein,False,glucose regulated protein
+Dickkopf-related protein 3,2,associated with mAb,dickkopf-related protein 3,False,dickkopf related protein 3
+Alpha-N-acetylgalactosaminidase,3,cex coelution,alpha-n-acetylgalactosaminidase,False,alpha n acetylgalactosaminidase
+Cathepsin B,3,cex coelution,cathepsin b,False,cathepsin b
+Chondroitin sulfate proteoglycan 4,3,cex coelution,chondroitin sulfate proteoglycan 4,False,chondroitin sulfate proteoglycan 4
+Clusterin,3,cex coelution,clusterin,False,clusterin
+Di-N-acetylchitobiase,3,cex coelution,di-n-acetylchitobiase,False,di n acetylchitobiase
+Dickkopf-related protein 3,3,cex coelution,dickkopf-related protein 3,False,dickkopf related protein 3
+dnaK-type molecular chaperone GRP78 precursor,3,cex coelution,dnak-type molecular chaperone grp78 precursor,False,dnak type molecular chaperone grp78 precursor
+Glypican-1,3,cex coelution,glypican-1,False,glypican 1
+Legumain,3,cex coelution,legumain,False,legumain
+Leukemia inhibitory factor,3,cex coelution,leukemia inhibitory factor,False,leukemia inhibitory factor
+Lipoprotein lipase,3,cex coelution,lipoprotein lipase,False,lipoprotein lipase
+Metalloproteinase inhibitor 1,3,cex coelution,metalloproteinase inhibitor 1,False,metalloproteinase inhibitor 1
+Nidogen-1,3,cex coelution,nidogen-1,False,nidogen 1
+Nucleobindin-2,3,cex coelution,nucleobindin-2,False,nucleobindin 2
+SPARC,3,cex coelution,sparc,False,sparc
+Basement membrane-specific heparan sulfate proteoglycan core protein,5,hic coelution,basement membrane-specific heparan sulfate proteoglycan core protein,False,basement membrane specific heparan sulfate proteoglycan core protein
+Dickkopf-related protein 3,5,hic coelution,dickkopf-related protein 3,False,dickkopf related protein 3
+Lactadherin,5,hic coelution,lactadherin,False,lactadherin
+Laminin subunit gamma-1,5,hic coelution,laminin subunit gamma-1,False,laminin subunit gamma 1
+Lipoprotein lipase,5,hic coelution,lipoprotein lipase,False,lipoprotein lipase
+Nidogen-1,5,hic coelution,nidogen-1,False,nidogen 1
+SPARC,5,hic coelution,sparc,False,sparc
+Tubulointerstitial nephritis antigen-like,5,hic coelution,tubulointerstitial nephritis antigen-like,False,tubulointerstitial nephritis antigen like
+3-phosphoinositide-dependent protein kinase 1,6,mmc coelution,3-phosphoinositide-dependent protein kinase 1,False,3 phosphoinositide dependent protein kinase 1
+Alpha-galactosidase A,6,mmc coelution,alpha-galactosidase a,False,alpha galactosidase a
+Amyloid-like protein 2,6,mmc coelution,amyloid-like protein 2,False,amyloid like protein 2
+Basement membrane-specific heparan sulfate proteoglycan core protein,6,mmc coelution,basement membrane-specific heparan sulfate proteoglycan core protein,False,basement membrane specific heparan sulfate proteoglycan core protein
+Beta-actin,6,mmc coelution,beta-actin,False,beta actin
+Calcium-dependent serine proteinase,6,mmc coelution,calcium-dependent serine proteinase,False,calcium dependent serine proteinase
+Calsyntenin-1,6,mmc coelution,calsyntenin-1,False,calsyntenin 1
+Cathepsin B,6,mmc coelution,cathepsin b,False,cathepsin b
+Chondroitin sulfate proteoglycan 4,6,mmc coelution,chondroitin sulfate proteoglycan 4,False,chondroitin sulfate proteoglycan 4
+Clusterin,6,mmc coelution,clusterin,False,clusterin
+Complement C1r-A subcomponent,6,mmc coelution,complement c1r-a subcomponent,False,complement c1r a subcomponent
+Dickkopf-related protein 3,6,mmc coelution,dickkopf-related protein 3,False,dickkopf related protein 3
+dnaK-type molecular chaperone GRP78 precursor,6,mmc coelution,dnak-type molecular chaperone grp78 precursor,False,dnak type molecular chaperone grp78 precursor
+ERP57 protein,6,mmc coelution,erp57 protein,False,erp57 protein
+Follistatin-related protein 1,6,mmc coelution,follistatin-related protein 1,False,follistatin related protein 1
+G-protein coupled receptor 56,6,mmc coelution,g-protein coupled receptor 56,False,g protein coupled receptor 56
+Galectin-3-binding protein,6,mmc coelution,galectin-3-binding protein,False,galectin 3 binding protein
+Glyceraldehyde-3-phosphate dehydrogenase,6,mmc coelution,glyceraldehyde-3-phosphate dehydrogenase,False,glyceraldehyde 3 phosphate dehydrogenase
+Glypican-1,6,mmc coelution,glypican-1,False,glypican 1
+Immunoglobulin superfamily member 8,6,mmc coelution,immunoglobulin superfamily member 8,False,immunoglobulin superfamily member 8
+Inter-alpha-trypsin inhibitor heavy chain H5,6,mmc coelution,inter-alpha-trypsin inhibitor heavy chain h5,False,inter alpha trypsin inhibitor heavy chain h5
+Lactadherin,6,mmc coelution,lactadherin,False,lactadherin
+Laminin subunit beta-1,6,mmc coelution,laminin subunit beta-1,False,laminin subunit beta 1
+Laminin subunit gamma-1,6,mmc coelution,laminin subunit gamma-1,False,laminin subunit gamma 1
+Legumain,6,mmc coelution,legumain,False,legumain
+Lipoprotein lipase,6,mmc coelution,lipoprotein lipase,False,lipoprotein lipase
+Matrix metalloproteinase-9,6,mmc coelution,matrix metalloproteinase-9,False,matrix metalloproteinase 9
+Metalloproteinase inhibitor 1,6,mmc coelution,metalloproteinase inhibitor 1,False,metalloproteinase inhibitor 1
+N-acetylglucosamine-6-sulfatase,6,mmc coelution,n-acetylglucosamine-6-sulfatase,False,n acetylglucosamine 6 sulfatase
+N-sulphoglucosamine sulphohydrolase,6,mmc coelution,n-sulphoglucosamine sulphohydrolase,False,n sulphoglucosamine sulphohydrolase
+Nidogen-1,6,mmc coelution,nidogen-1,False,nidogen 1
+Nucleobindin-2,6,mmc coelution,nucleobindin-2,False,nucleobindin 2
+Peptidyl-glycine alpha-amidating monooxygenase B,6,mmc coelution,peptidyl-glycine alpha-amidating monooxygenase b,False,peptidyl glycine alpha amidating monooxygenase b
+Procollagen C-endopeptidase enhancer 1,6,mmc coelution,procollagen c-endopeptidase enhancer 1,False,procollagen c endopeptidase enhancer 1
+"Procollagen-lysine,2-oxoglutarate 5-Dioxygenase 1",6,mmc coelution,"procollagen-lysine,2-oxoglutarate 5-dioxygenase 1",False,procollagen lysine2 oxoglutarate 5 dioxygenase 1
+Ribonuclease T2,6,mmc coelution,ribonuclease t2,False,ribonuclease t2
+Semaphorin-3C,6,mmc coelution,semaphorin-3c,False,semaphorin 3c
+SPARC,6,mmc coelution,sparc,False,sparc
+Syndecan-4,6,mmc coelution,syndecan-4,False,syndecan 4
+Tissue alpha-L-fucosidase,6,mmc coelution,tissue alpha-l-fucosidase,False,tissue alpha l fucosidase
+Tubulointerstitial nephritis antigen-like,6,mmc coelution,tubulointerstitial nephritis antigen-like,False,tubulointerstitial nephritis antigen like

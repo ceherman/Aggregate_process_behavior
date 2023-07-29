@@ -1,0 +1,88 @@
+name,mw_kDa,pI,uniprot,n_aa,desc_lower,acronym,desc_lower_2
+40S ribosomal protein SA (RPSA),19.7,9.4,G3HQX0,179,40s ribosomal protein sa,rpsa,40s ribosomal protein sa
+60S acidic ribosomal protein P0,30.6,8.9,G3HKG9,280,60s acidic ribosomal protein p0,False,60s acidic ribosomal protein p0
+"78 kDa glucose regulated protein (GRP78, BiP) ✓",72.4,5.1,G3I8R9,654,78 kda glucose regulated protein,"grp78, bip",78 kda glucose regulated protein
+"Actin, cytoplasmic 1 (ACTB) ✓",41.7,5.2,P48975,375,"actin, cytoplasmic 1",actb,actin cytoplasmic 1
+Alpha-enolase (2-phospho-D-glycerate hydro-lyase) c,15.5,5.0,G3I0W1,139,alpha-enolase,2-phospho-d-glycerate hydro-lyase,alpha enolase
+Annexin A2,27.0,5.7,G3IG05,244,annexin a2,False,annexin a2
+Annexin A5 (ANXA5),36.1,4.9,G3I5A4,321,annexin a5,anxa5,annexin a5
+C-C motif chemokine (CCL),15.9,9.3,G3GTT2,143,c-c motif chemokine,ccl,c c motif chemokine
+C-X-C motif chemokine 3 (CXCL3),11.0,9.1,A4URF0,101,c-x-c motif chemokine 3,cxcl3,c x c motif chemokine 3
+Calmodulin (CaM),16.7,4.1,A0A061HUH1,149,calmodulin,cam,calmodulin
+Calreticulin (CALR) ✓,48.4,4.3,G3HCX8,417,calreticulin,calr,calreticulin
+"Carboxylesterase 1-like protein, liver (CES1)",97.5,5.9,A0A061IFE2,882,"carboxylesterase 1-like protein, liver",ces1,carboxylesterase 1 like protein liver
+"Carboxylesterase B-1-like protein, liver (CES-B1L)",77.9,7.9,A0A061I7X9,704,"carboxylesterase b-1-like protein, liver",ces-b1l,carboxylesterase b 1 like protein liver
+Carboxypeptidase D (Cpd),123.4,5.8,G3HR95,1106,carboxypeptidase d,cpd,carboxypeptidase d
+Catalase,63.1,8.3,G3GYY6,555,catalase,False,catalase
+Cathepsin B (CatB),37.5,5.7,G3H0L9,339,cathepsin b,catb,cathepsin b
+Cathepsin D (CatD),44.1,6.5,G3I4W7,408,cathepsin d,catd,cathepsin d
+Cathepsin E (CatE),42.2,4.7,G3HAY9,388,cathepsin e,cate,cathepsin e
+Cathepsin L (CatL),37.3,6.8,G3INC5,333,cathepsin l,catl,cathepsin l
+Cathepsin Z (CatZ),34.0,7.5,Q9EPP7,306,cathepsin z,catz,cathepsin z
+Chondroitin sulfate proteoglycan 4 (CSPG4),252.0,5.4,G3H0E4,2323,chondroitin sulfate proteoglycan 4,cspg4,chondroitin sulfate proteoglycan 4
+Clusterin (CLU),51.8,5.5,G3HNJ3,447,clusterin,clu,clusterin
+Cofilin-1 (CFL),18.5,8.2,G3IDM2,166,cofilin-1,cfl,cofilin 1
+Elongation factor 1-alpha (eEF1a) ✓,50.1,9.1,P62629,462,elongation factor 1-alpha,eef1a,elongation factor 1 alpha
+Elongation factor 2 (eEF2) ✓,95.3,6.2,P09445,858,elongation factor 2,eef2,elongation factor 2
+Endoplasmin (HSP90B1),92.6,4.7,G3HQM6,803,endoplasmin,hsp90b1,endoplasmin
+ERP57 protein,56.8,6.0,Q91Z81,505,erp57 protein,False,erp57 protein
+Follistatin-related protein 1 (FST1),65.4,6.2,G3HAI3,583,follistatin-related protein 1,fst1,follistatin related protein 1
+Fructose-bisphosphate aldolase (FBA),39.4,8.3,G3I4H6,364,fructose-bisphosphate aldolase,fba,fructose bisphosphate aldolase
+Galectin 3 binding protein (Gal-3BP),63.8,5.1,G3H3E4,574,galectin 3 binding protein,gal-3bp,galectin 3 binding protein
+Galectin-1 (Gal-1),14.8,5.5,P48538,135,galectin-1,gal-1,galectin 1
+Galectin-3 (Gal-3),32.4,6.9,G3H7B3,281,galectin-3,gal-3,galectin 3
+Glutathione S-transferase P 1 (GSTP1),25.0,8.2,G3I3Y6,221,glutathione s-transferase p 1,gstp1,glutathione s transferase p 1
+Glyceraldehyde-3-phosphate dehydrogenase (G3P) ✓,35.7,8.5,P17244,333,glyceraldehyde-3-phosphate dehydrogenase,g3p,glyceraldehyde 3 phosphate dehydrogenase
+Granulins (GRN),63.9,6.0,G3HLK3,592,granulins,grn,granulins
+GTP-binding nuclear protein (RAN) ✓,24.5,8.4,G3IHE5,216,gtp-binding nuclear protein,ran,gtp binding nuclear protein
+Guanine nucleotide-binding protein beta-2-like (RACK1),30.4,7.0,G3HK00,276,guanine nucleotide-binding protein beta-2-like,rack1,guanine nucleotide binding protein beta 2 like
+Heat shock cognate 71 kDa protein (HSPA8),70.8,5.2,P19378,646,heat shock cognate 71 kda protein,hspa8,heat shock cognate 71 kda protein
+Heat shock protein HSP 90-alpha (HSP90A),84.8,5.0,P46633,733,heat shock protein hsp 90-alpha,hsp90a,heat shock protein hsp 90 alpha
+Heat shock protein HSP 90-beta (HSP90B) ✓,47.8,5.3,G3HC84,412,heat shock protein hsp 90-beta,hsp90b,heat shock protein hsp 90 beta
+"Hexosaminidase, beta",60.7,6.0,G3H3P8,528,"hexosaminidase, beta",False,hexosaminidase beta
+Histone H2A ✓,26.7,10.9,G3HDS3,236,histone h2a,False,histone h2a
+Histone H2B Type 1-N (H2B1N),13.9,10.3,G3HDU3,126,histone h2b type 1-n,h2b1n,histone h2b type 1 n
+Inter-alpha-trypsin inhibitor heavy chain H5 isoform X2 (ITIH5L),107.9,8.5,G3H7S9,983,inter-alpha-trypsin inhibitor heavy chain h5 isoform x2,itih5l,inter alpha trypsin inhibitor heavy chain h5 isoform x2
+L-Lactate dehydrogenase A chain (LDHA),36.5,7.0,Q06BU8,332,l-lactate dehydrogenase a chain,ldha,l lactate dehydrogenase a chain
+Lactadherin (MFG-E8),16.1,9.5,G3ICD3,140,lactadherin,mfg-e8,lactadherin
+Lactotransferrin (LTF),71.4,8.6,G3HTA2,648,lactotransferrin,ltf,lactotransferrin
+Laminin subunit beta-1 (LAMB1),178.1,4.8,G3I278,1617,laminin subunit beta-1,lamb1,laminin subunit beta 1
+Laminin subunit gamma-1 (LAMC1),172.1,5.0,G3HG25,1559,laminin subunit gamma-1,lamc1,laminin subunit gamma 1
+Legumain (LGMN),49.6,6.1,G3I1H5,438,legumain,lgmn,legumain
+Lipoprotein lipase (LPL),50.5,8.0,G3H6V7,450,lipoprotein lipase,lpl,lipoprotein lipase
+Lysosomal acid lipase (LAL),45.6,7.3,G3HQY6,397,lysosomal acid lipase,lal,lysosomal acid lipase
+Lysosomal phospholipase A2 (LPLA2) d,47.2,6.1,G3HKV9,412,lysosomal phospholipase a2,lpla2,lysosomal phospholipase a2
+Lysosomal protective protein (CTSA),54.2,5.7,G3H8V5,475,lysosomal protective protein,ctsa,lysosomal protective protein
+"Malate dehydrogenase, cytoplasmic (MDHC)",36.5,6.2,G3HDQ2,334,"malate dehydrogenase, cytoplasmic",mdhc,malate dehydrogenase cytoplasmic
+Matrix metalloproteinase-19 (MMP-19),58.9,7.7,G3HRK9,525,matrix metalloproteinase-19,mmp-19,matrix metalloproteinase 19
+Metalloproteinase inhibitor 1 (TIMP1),22.4,8.8,G3IBH0,203,metalloproteinase inhibitor 1,timp1,metalloproteinase inhibitor 1
+Monocyte chemoattractant protein-1 (MCP-1),15.9,9.3,G3GTT2,143,monocyte chemoattractant protein-1,mcp-1,monocyte chemoattractant protein 1
+Myosin-9 (MYH9),225.8,5.5,G3IH63,1948,myosin-9,myh9,myosin 9
+Nidogen-1 (NID1),30.1,8.4,G3I3U5,278,nidogen-1,nid1,nidogen 1
+Nucleobindin-2 (NUCB2),50.3,5.1,G3IF52,420,nucleobindin-2,nucb2,nucleobindin 2
+Nucleoside diphosphate kinase B (NDPK-B),17.3,7.8,G3HBD3,152,nucleoside diphosphate kinase b,ndpk-b,nucleoside diphosphate kinase b
+Peptidyl-prolyl cis-trans isomerase A (PPIA) c,17.9,8.4,P14851,164,peptidyl-prolyl cis-trans isomerase a,ppia,peptidyl prolyl cis trans isomerase a
+Peroxiredoxin-1 (PRDX1),22.3,8.2,Q9JKY1,199,peroxiredoxin-1,prdx1,peroxiredoxin 1
+Phosphoglycerate kinase (PGK1),44.6,8.0,P50310,417,phosphoglycerate kinase,pgk1,phosphoglycerate kinase
+Phosphoglycerate mutase 1 (Pgam1),20.2,7.8,G3GZW8,178,phosphoglycerate mutase 1,pgam1,phosphoglycerate mutase 1
+Phospholipase B-like 2 (PLBL2),65.5,5.9,G3I6T1,585,phospholipase b-like 2,plbl2,phospholipase b like 2
+Phospholipase D3 (PLD3),54.4,6.0,G3HNQ5,488,phospholipase d3,pld3,phospholipase d3
+Phospholipid transfer protein (PLTP),54.4,6.2,G3H8V4,493,phospholipid transfer protein,pltp,phospholipid transfer protein
+Plectin-1 (Plec1),83.4,8.7,G3HWJ2,720,plectin-1,plec1,plectin 1
+Procollagen C-endopeptidase enhancer (PCPE1),55.2,8.5,G3I664,509,procollagen c-endopeptidase enhancer,pcpe1,procollagen c endopeptidase enhancer
+Procollagen-lysine 2-oxoglutarate 5-deoxygenase_1 (PLOD1),76.0,5.8,G3IIE7,659,procollagen-lysine 2-oxoglutarate 5-deoxygenase_1,plod1,procollagen lysine 2 oxoglutarate 5 deoxygenase 1
+Proteasome subunit alpha type-7 (PSA7),23.8,8.6,G3GWR8,212,proteasome subunit alpha type-7,psa7,proteasome subunit alpha type 7
+Protein disulfide isomerase (PDI) c,57.0,4.8,Q8R4U2,509,protein disulfide isomerase,pdi,protein disulfide isomerase
+Protein S100-A6 (S10A6),10.0,5.3,G3HC31,89,protein s100-a6,s10a6,protein s100 a6
+Pyruvate kinase (PK),51.6,7.6,G3H3Q1,472,pyruvate kinase,pk,pyruvate kinase
+Serine protease (HTRA1),28.7,6.5,G3IBF4,268,serine protease,htra1,serine protease
+Sialate o-acetylesterase (SIAE),59.3,8.6,A0A3L7HS03,529,sialate o-acetylesterase,siae,sialate o acetylesterase
+Sulfated glycoprotein (SGP-1),27.4,5.4,G3I1Y9,249,sulfated glycoprotein,sgp-1,sulfated glycoprotein
+Transforming growth factor-b1 (TGF-β1) c,28.4,8.7,G3IA12,237,transforming growth factor-b1,tgf,transforming growth factor b1
+Transgelin-2 (TAGLN),22.5,8.8,G3H7Z2,199,transgelin-2,tagln,transgelin 2
+Transketolase (TKTase),67.7,7.6,G3GUU5,623,transketolase,tktase,transketolase
+Triosephosphate isomerase (TPI),16.4,8.5,G3HNV4,150,triosephosphate isomerase,tpi,triosephosphate isomerase
+Tubulin alpha-1A chain (TBA1A),50.1,4.9,P68362,451,tubulin alpha-1a chain,tba1a,tubulin alpha 1a chain
+Tubulin alpha-1C chain (TBA1C),49.9,5.0,P68365,449,tubulin alpha-1c chain,tba1c,tubulin alpha 1c chain
+V-type proton ATPase subunit C 1 (VATC1),43.9,7.0,G3I3N5,382,v-type proton atpase subunit c 1,vatc1,v type proton atpase subunit c 1
+Vimentin (VIME) e,51.8,4.9,P48670,448,vimentin,vime,vimentin

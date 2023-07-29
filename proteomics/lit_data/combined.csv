@@ -1,0 +1,329 @@
+,name,desc_lower,desc_lower_2,paper,doi
+0,0,40s ribosomal protein sa,40s ribosomal protein sa,Biophorum DTR,10.1002/bit.27808
+1,1,60s acidic ribosomal protein p0,60s acidic ribosomal protein p0,Biophorum DTR,10.1002/bit.27808
+2,2,78 kda glucose regulated protein,78 kda glucose regulated protein,Biophorum DTR,10.1002/bit.27808
+3,3,"actin, cytoplasmic 1",actin cytoplasmic 1,Biophorum DTR,10.1002/bit.27808
+4,4,alpha-enolase,alpha enolase,Biophorum DTR,10.1002/bit.27808
+5,5,annexin a2,annexin a2,Biophorum DTR,10.1002/bit.27808
+6,6,annexin a5,annexin a5,Biophorum DTR,10.1002/bit.27808
+7,7,c-c motif chemokine,c c motif chemokine,Biophorum DTR,10.1002/bit.27808
+8,8,c-x-c motif chemokine 3,c x c motif chemokine 3,Biophorum DTR,10.1002/bit.27808
+9,9,calmodulin,calmodulin,Biophorum DTR,10.1002/bit.27808
+10,10,calreticulin,calreticulin,Biophorum DTR,10.1002/bit.27808
+11,11,"carboxylesterase 1-like protein, liver",carboxylesterase 1 like protein liver,Biophorum DTR,10.1002/bit.27808
+12,12,"carboxylesterase b-1-like protein, liver",carboxylesterase b 1 like protein liver,Biophorum DTR,10.1002/bit.27808
+13,13,carboxypeptidase d,carboxypeptidase d,Biophorum DTR,10.1002/bit.27808
+14,14,catalase,catalase,Biophorum DTR,10.1002/bit.27808
+15,15,cathepsin b,cathepsin b,Biophorum DTR,10.1002/bit.27808
+16,16,cathepsin d,cathepsin d,Biophorum DTR,10.1002/bit.27808
+17,17,cathepsin e,cathepsin e,Biophorum DTR,10.1002/bit.27808
+18,18,cathepsin l,cathepsin l,Biophorum DTR,10.1002/bit.27808
+19,19,cathepsin z,cathepsin z,Biophorum DTR,10.1002/bit.27808
+20,20,chondroitin sulfate proteoglycan 4,chondroitin sulfate proteoglycan 4,Biophorum DTR,10.1002/bit.27808
+21,21,clusterin,clusterin,Biophorum DTR,10.1002/bit.27808
+22,22,cofilin-1,cofilin 1,Biophorum DTR,10.1002/bit.27808
+23,23,elongation factor 1-alpha,elongation factor 1 alpha,Biophorum DTR,10.1002/bit.27808
+24,24,elongation factor 2,elongation factor 2,Biophorum DTR,10.1002/bit.27808
+25,25,endoplasmin,endoplasmin,Biophorum DTR,10.1002/bit.27808
+26,26,erp57 protein,erp57 protein,Biophorum DTR,10.1002/bit.27808
+27,27,follistatin-related protein 1,follistatin related protein 1,Biophorum DTR,10.1002/bit.27808
+28,28,fructose-bisphosphate aldolase,fructose bisphosphate aldolase,Biophorum DTR,10.1002/bit.27808
+29,29,galectin 3 binding protein,galectin 3 binding protein,Biophorum DTR,10.1002/bit.27808
+30,30,galectin-1,galectin 1,Biophorum DTR,10.1002/bit.27808
+31,31,galectin-3,galectin 3,Biophorum DTR,10.1002/bit.27808
+32,32,glutathione s-transferase p 1,glutathione s transferase p 1,Biophorum DTR,10.1002/bit.27808
+33,33,glyceraldehyde-3-phosphate dehydrogenase,glyceraldehyde 3 phosphate dehydrogenase,Biophorum DTR,10.1002/bit.27808
+34,34,granulins,granulins,Biophorum DTR,10.1002/bit.27808
+35,35,gtp-binding nuclear protein,gtp binding nuclear protein,Biophorum DTR,10.1002/bit.27808
+36,36,guanine nucleotide-binding protein beta-2-like,guanine nucleotide binding protein beta 2 like,Biophorum DTR,10.1002/bit.27808
+37,37,heat shock cognate 71 kda protein,heat shock cognate 71 kda protein,Biophorum DTR,10.1002/bit.27808
+38,38,heat shock protein hsp 90-alpha,heat shock protein hsp 90 alpha,Biophorum DTR,10.1002/bit.27808
+39,39,heat shock protein hsp 90-beta,heat shock protein hsp 90 beta,Biophorum DTR,10.1002/bit.27808
+40,40,"hexosaminidase, beta",hexosaminidase beta,Biophorum DTR,10.1002/bit.27808
+41,41,histone h2a,histone h2a,Biophorum DTR,10.1002/bit.27808
+42,42,histone h2b type 1-n,histone h2b type 1 n,Biophorum DTR,10.1002/bit.27808
+43,43,inter-alpha-trypsin inhibitor heavy chain h5 isoform x2,inter alpha trypsin inhibitor heavy chain h5 isoform x2,Biophorum DTR,10.1002/bit.27808
+44,44,l-lactate dehydrogenase a chain,l lactate dehydrogenase a chain,Biophorum DTR,10.1002/bit.27808
+45,45,lactadherin,lactadherin,Biophorum DTR,10.1002/bit.27808
+46,46,lactotransferrin,lactotransferrin,Biophorum DTR,10.1002/bit.27808
+47,47,laminin subunit beta-1,laminin subunit beta 1,Biophorum DTR,10.1002/bit.27808
+48,48,laminin subunit gamma-1,laminin subunit gamma 1,Biophorum DTR,10.1002/bit.27808
+49,49,legumain,legumain,Biophorum DTR,10.1002/bit.27808
+50,50,lipoprotein lipase,lipoprotein lipase,Biophorum DTR,10.1002/bit.27808
+51,51,lysosomal acid lipase,lysosomal acid lipase,Biophorum DTR,10.1002/bit.27808
+52,52,lysosomal phospholipase a2,lysosomal phospholipase a2,Biophorum DTR,10.1002/bit.27808
+53,53,lysosomal protective protein,lysosomal protective protein,Biophorum DTR,10.1002/bit.27808
+54,54,"malate dehydrogenase, cytoplasmic",malate dehydrogenase cytoplasmic,Biophorum DTR,10.1002/bit.27808
+55,55,matrix metalloproteinase-19,matrix metalloproteinase 19,Biophorum DTR,10.1002/bit.27808
+56,56,metalloproteinase inhibitor 1,metalloproteinase inhibitor 1,Biophorum DTR,10.1002/bit.27808
+57,57,monocyte chemoattractant protein-1,monocyte chemoattractant protein 1,Biophorum DTR,10.1002/bit.27808
+58,58,myosin-9,myosin 9,Biophorum DTR,10.1002/bit.27808
+59,59,nidogen-1,nidogen 1,Biophorum DTR,10.1002/bit.27808
+60,60,nucleobindin-2,nucleobindin 2,Biophorum DTR,10.1002/bit.27808
+61,61,nucleoside diphosphate kinase b,nucleoside diphosphate kinase b,Biophorum DTR,10.1002/bit.27808
+62,62,peptidyl-prolyl cis-trans isomerase a,peptidyl prolyl cis trans isomerase a,Biophorum DTR,10.1002/bit.27808
+63,63,peroxiredoxin-1,peroxiredoxin 1,Biophorum DTR,10.1002/bit.27808
+64,64,phosphoglycerate kinase,phosphoglycerate kinase,Biophorum DTR,10.1002/bit.27808
+65,65,phosphoglycerate mutase 1,phosphoglycerate mutase 1,Biophorum DTR,10.1002/bit.27808
+66,66,phospholipase b-like 2,phospholipase b like 2,Biophorum DTR,10.1002/bit.27808
+67,67,phospholipase d3,phospholipase d3,Biophorum DTR,10.1002/bit.27808
+68,68,phospholipid transfer protein,phospholipid transfer protein,Biophorum DTR,10.1002/bit.27808
+69,69,plectin-1,plectin 1,Biophorum DTR,10.1002/bit.27808
+70,70,procollagen c-endopeptidase enhancer,procollagen c endopeptidase enhancer,Biophorum DTR,10.1002/bit.27808
+71,71,procollagen-lysine 2-oxoglutarate 5-deoxygenase_1,procollagen lysine 2 oxoglutarate 5 deoxygenase 1,Biophorum DTR,10.1002/bit.27808
+72,72,proteasome subunit alpha type-7,proteasome subunit alpha type 7,Biophorum DTR,10.1002/bit.27808
+73,73,protein disulfide isomerase,protein disulfide isomerase,Biophorum DTR,10.1002/bit.27808
+74,74,protein s100-a6,protein s100 a6,Biophorum DTR,10.1002/bit.27808
+75,75,pyruvate kinase,pyruvate kinase,Biophorum DTR,10.1002/bit.27808
+76,76,serine protease,serine protease,Biophorum DTR,10.1002/bit.27808
+77,77,sialate o-acetylesterase,sialate o acetylesterase,Biophorum DTR,10.1002/bit.27808
+78,78,sulfated glycoprotein,sulfated glycoprotein,Biophorum DTR,10.1002/bit.27808
+79,79,transforming growth factor-b1,transforming growth factor b1,Biophorum DTR,10.1002/bit.27808
+80,80,transgelin-2,transgelin 2,Biophorum DTR,10.1002/bit.27808
+81,81,transketolase,transketolase,Biophorum DTR,10.1002/bit.27808
+82,82,triosephosphate isomerase,triosephosphate isomerase,Biophorum DTR,10.1002/bit.27808
+83,83,tubulin alpha-1a chain,tubulin alpha 1a chain,Biophorum DTR,10.1002/bit.27808
+84,84,tubulin alpha-1c chain,tubulin alpha 1c chain,Biophorum DTR,10.1002/bit.27808
+85,85,v-type proton atpase subunit c 1,v type proton atpase subunit c 1,Biophorum DTR,10.1002/bit.27808
+86,86,vimentin,vimentin,Biophorum DTR,10.1002/bit.27808
+87,0,78 kda glucose regulated protein,78 kda glucose regulated protein,Biophorum high-risk,10.1002/bit.27808
+88,1,alpha-enolase,alpha enolase,Biophorum high-risk,10.1002/bit.27808
+89,2,annexin a5,annexin a5,Biophorum high-risk,10.1002/bit.27808
+90,3,c-x-c motif chemokine 3,c x c motif chemokine 3,Biophorum high-risk,10.1002/bit.27808
+91,4,carboxyesterase,carboxyesterase,Biophorum high-risk,10.1002/bit.27808
+92,5,carboxypeptidase d,carboxypeptidase d,Biophorum high-risk,10.1002/bit.27808
+93,6,cathepsin b,cathepsin b,Biophorum high-risk,10.1002/bit.27808
+94,7,cathepsin l,cathepsin l,Biophorum high-risk,10.1002/bit.27808
+95,8,cathepsin z,cathepsin z,Biophorum high-risk,10.1002/bit.27808
+96,9,cathepsin d,cathepsin d,Biophorum high-risk,10.1002/bit.27808
+97,10,cathepsin e,cathepsin e,Biophorum high-risk,10.1002/bit.27808
+98,11,clusterin,clusterin,Biophorum high-risk,10.1002/bit.27808
+99,12,glutathione-s-transferase,glutathione s transferase,Biophorum high-risk,10.1002/bit.27808
+100,13,lipoprotein lipase,lipoprotein lipase,Biophorum high-risk,10.1002/bit.27808
+101,14,lysosomal acid lipase,lysosomal acid lipase,Biophorum high-risk,10.1002/bit.27808
+102,15,lysosomal phospholipase a2,lysosomal phospholipase a2,Biophorum high-risk,10.1002/bit.27808
+103,16,matrix metalloproteinase,matrix metalloproteinase,Biophorum high-risk,10.1002/bit.27808
+104,17,monocyte chemoattractant protein-1,monocyte chemoattractant protein 1,Biophorum high-risk,10.1002/bit.27808
+105,18,peptidyl-prolyl cis-trans isomerase a,peptidyl prolyl cis trans isomerase a,Biophorum high-risk,10.1002/bit.27808
+106,19,peroxiredoxin,peroxiredoxin,Biophorum high-risk,10.1002/bit.27808
+107,20,phospholipase b-like 2,phospholipase b like 2,Biophorum high-risk,10.1002/bit.27808
+108,21,procollagen-lysine 2-oxoglutarate 5-deoxygenase_1,procollagen lysine 2 oxoglutarate 5 deoxygenase 1,Biophorum high-risk,10.1002/bit.27808
+109,22,protein disulfide isomerase,protein disulfide isomerase,Biophorum high-risk,10.1002/bit.27808
+110,23,protein s100,protein s100,Biophorum high-risk,10.1002/bit.27808
+111,24,pyruvate kinase,pyruvate kinase,Biophorum high-risk,10.1002/bit.27808
+112,25,serine protease,serine protease,Biophorum high-risk,10.1002/bit.27808
+113,26,sialate o-acetylesterase,sialate o acetylesterase,Biophorum high-risk,10.1002/bit.27808
+114,27,transforming growth factor,transforming growth factor,Biophorum high-risk,10.1002/bit.27808
+115,0,neural cell adhesion molecule,neural cell adhesion molecule,Levy 2014 - Association,10.1002/bit.25158
+116,1,renin receptor,renin receptor,Levy 2014 - Association,10.1002/bit.25158
+117,2,lipoprotein lipase,lipoprotein lipase,Levy 2014 - Association,10.1002/bit.25158
+118,3,chondroitin sulfate protoglycan 4,chondroitin sulfate protoglycan 4,Levy 2014 - Association,10.1002/bit.25158
+119,4,alpha-enolase,alpha enolase,Levy 2014 - Association,10.1002/bit.25158
+120,5,galectin-3-binding protein,galectin 3 binding protein,Levy 2014 - Association,10.1002/bit.25158
+121,6,g-protein coupled receptor 56,g protein coupled receptor 56,Levy 2014 - Association,10.1002/bit.25158
+122,7,v-type proton atpase subunit s1,v type proton atpase subunit s1,Levy 2014 - Association,10.1002/bit.25158
+123,8,nidogen-1,nidogen 1,Levy 2014 - Association,10.1002/bit.25158
+124,9,"atp synthase subunit beta, mitochondrial",atp synthase subunit beta mitochondrial,Levy 2014 - Association,10.1002/bit.25158
+125,10,vimentin,vimentin,Levy 2014 - Association,10.1002/bit.25158
+126,11,heat shock protein,heat shock protein,Levy 2014 - Association,10.1002/bit.25158
+127,12,actin,actin,Levy 2014 - Association,10.1002/bit.25158
+128,13,peroxirodoxin 1,peroxirodoxin 1,Levy 2014 - Association,10.1002/bit.25158
+129,14,sparc,sparc,Levy 2014 - Association,10.1002/bit.25158
+130,15,clusterin,clusterin,Levy 2014 - Association,10.1002/bit.25158
+131,16,complement c1r-a sub-component,complement c1r a sub component,Levy 2014 - Association,10.1002/bit.25158
+132,17,metalloproteinase inhibitor 1,metalloproteinase inhibitor 1,Levy 2014 - Association,10.1002/bit.25158
+133,18,insulin,insulin,Levy 2014 - Association,10.1002/bit.25158
+134,19,cathepsin d,cathepsin d,Levy 2014 - Association,10.1002/bit.25158
+135,20,sulfated glycoprotein 1,sulfated glycoprotein 1,Levy 2014 - Association,10.1002/bit.25158
+136,21,lysosomal protective protein,lysosomal protective protein,Levy 2014 - Association,10.1002/bit.25158
+137,0,pyruvate kinase,pyruvate kinase,Zhang 2016 - Pro A,10.1002/btpr.2272
+138,1,heat shock cognate 71 kda protein,heat shock cognate 71 kda protein,Zhang 2016 - Pro A,10.1002/btpr.2272
+139,2,peptidyl prolyl cis-trans isomerase,peptidyl prolyl cis trans isomerase,Zhang 2016 - Pro A,10.1002/btpr.2272
+140,3,peroxiredoxin 1,peroxiredoxin 1,Zhang 2016 - Pro A,10.1002/btpr.2272
+141,4,actin cytoplasmic 1,actin cytoplasmic 1,Zhang 2016 - Pro A,10.1002/btpr.2272
+142,5,78 kda glucose regulated protein,78 kda glucose regulated protein,Zhang 2016 - Pro A,10.1002/btpr.2272
+143,6,phosphoglycerate kinase 1,phosphoglycerate kinase 1,Zhang 2016 - Pro A,10.1002/btpr.2272
+144,7,clusterin,clusterin,Zhang 2016 - Pro A,10.1002/btpr.2272
+145,8,glyceraldehyde-3-phsophate dehydrogenase,glyceraldehyde 3 phsophate dehydrogenase,Zhang 2016 - Pro A,10.1002/btpr.2272
+146,9,elongation factor 1 alpha 1,elongation factor 1 alpha 1,Zhang 2016 - Pro A,10.1002/btpr.2272
+147,10,aldose reductase related protein 2,aldose reductase related protein 2,Zhang 2016 - Pro A,10.1002/btpr.2272
+148,11,glutathione s transferase p,glutathione s transferase p,Zhang 2016 - Pro A,10.1002/btpr.2272
+149,12,elongation factor 2,elongation factor 2,Zhang 2016 - Pro A,10.1002/btpr.2272
+150,13,serine protease htra1,serine protease htra1,Zhang 2016 - Pro A,10.1002/btpr.2272
+151,0,chondroitin sulfate protoglycan 4,chondroitin sulfate protoglycan 4,Levy 2016 - Coelution,10.1002/bit.25882
+152,1,nidogen-1,nidogen 1,Levy 2016 - Coelution,10.1002/bit.25882
+153,2,actin,actin,Levy 2016 - Coelution,10.1002/bit.25882
+154,3,sparc,sparc,Levy 2016 - Coelution,10.1002/bit.25882
+155,4,cathepsin d,cathepsin d,Levy 2016 - Coelution,10.1002/bit.25882
+156,5,sulfated glycoprotein 1,sulfated glycoprotein 1,Levy 2016 - Coelution,10.1002/bit.25882
+157,6,glucose regulated protein,glucose regulated protein,Levy 2016 - Coelution,10.1002/bit.25882
+158,7,dickkopf-related protein 3,dickkopf related protein 3,Levy 2016 - Coelution,10.1002/bit.25882
+159,8,alpha-n-acetylgalactosaminidase,alpha n acetylgalactosaminidase,Levy 2016 - Coelution,10.1002/bit.25882
+160,9,cathepsin b,cathepsin b,Levy 2016 - Coelution,10.1002/bit.25882
+161,10,chondroitin sulfate proteoglycan 4,chondroitin sulfate proteoglycan 4,Levy 2016 - Coelution,10.1002/bit.25882
+162,11,clusterin,clusterin,Levy 2016 - Coelution,10.1002/bit.25882
+163,12,di-n-acetylchitobiase,di n acetylchitobiase,Levy 2016 - Coelution,10.1002/bit.25882
+164,13,dickkopf-related protein 3,dickkopf related protein 3,Levy 2016 - Coelution,10.1002/bit.25882
+165,14,dnak-type molecular chaperone grp78 precursor,dnak type molecular chaperone grp78 precursor,Levy 2016 - Coelution,10.1002/bit.25882
+166,15,glypican-1,glypican 1,Levy 2016 - Coelution,10.1002/bit.25882
+167,16,legumain,legumain,Levy 2016 - Coelution,10.1002/bit.25882
+168,17,leukemia inhibitory factor,leukemia inhibitory factor,Levy 2016 - Coelution,10.1002/bit.25882
+169,18,lipoprotein lipase,lipoprotein lipase,Levy 2016 - Coelution,10.1002/bit.25882
+170,19,metalloproteinase inhibitor 1,metalloproteinase inhibitor 1,Levy 2016 - Coelution,10.1002/bit.25882
+171,20,nidogen-1,nidogen 1,Levy 2016 - Coelution,10.1002/bit.25882
+172,21,nucleobindin-2,nucleobindin 2,Levy 2016 - Coelution,10.1002/bit.25882
+173,22,sparc,sparc,Levy 2016 - Coelution,10.1002/bit.25882
+174,23,basement membrane-specific heparan sulfate proteoglycan core protein,basement membrane specific heparan sulfate proteoglycan core protein,Levy 2016 - Coelution,10.1002/bit.25882
+175,24,dickkopf-related protein 3,dickkopf related protein 3,Levy 2016 - Coelution,10.1002/bit.25882
+176,25,lactadherin,lactadherin,Levy 2016 - Coelution,10.1002/bit.25882
+177,26,laminin subunit gamma-1,laminin subunit gamma 1,Levy 2016 - Coelution,10.1002/bit.25882
+178,27,lipoprotein lipase,lipoprotein lipase,Levy 2016 - Coelution,10.1002/bit.25882
+179,28,nidogen-1,nidogen 1,Levy 2016 - Coelution,10.1002/bit.25882
+180,29,sparc,sparc,Levy 2016 - Coelution,10.1002/bit.25882
+181,30,tubulointerstitial nephritis antigen-like,tubulointerstitial nephritis antigen like,Levy 2016 - Coelution,10.1002/bit.25882
+182,31,3-phosphoinositide-dependent protein kinase 1,3 phosphoinositide dependent protein kinase 1,Levy 2016 - Coelution,10.1002/bit.25882
+183,32,alpha-galactosidase a,alpha galactosidase a,Levy 2016 - Coelution,10.1002/bit.25882
+184,33,amyloid-like protein 2,amyloid like protein 2,Levy 2016 - Coelution,10.1002/bit.25882
+185,34,basement membrane-specific heparan sulfate proteoglycan core protein,basement membrane specific heparan sulfate proteoglycan core protein,Levy 2016 - Coelution,10.1002/bit.25882
+186,35,beta-actin,beta actin,Levy 2016 - Coelution,10.1002/bit.25882
+187,36,calcium-dependent serine proteinase,calcium dependent serine proteinase,Levy 2016 - Coelution,10.1002/bit.25882
+188,37,calsyntenin-1,calsyntenin 1,Levy 2016 - Coelution,10.1002/bit.25882
+189,38,cathepsin b,cathepsin b,Levy 2016 - Coelution,10.1002/bit.25882
+190,39,chondroitin sulfate proteoglycan 4,chondroitin sulfate proteoglycan 4,Levy 2016 - Coelution,10.1002/bit.25882
+191,40,clusterin,clusterin,Levy 2016 - Coelution,10.1002/bit.25882
+192,41,complement c1r-a subcomponent,complement c1r a subcomponent,Levy 2016 - Coelution,10.1002/bit.25882
+193,42,dickkopf-related protein 3,dickkopf related protein 3,Levy 2016 - Coelution,10.1002/bit.25882
+194,43,dnak-type molecular chaperone grp78 precursor,dnak type molecular chaperone grp78 precursor,Levy 2016 - Coelution,10.1002/bit.25882
+195,44,erp57 protein,erp57 protein,Levy 2016 - Coelution,10.1002/bit.25882
+196,45,follistatin-related protein 1,follistatin related protein 1,Levy 2016 - Coelution,10.1002/bit.25882
+197,46,g-protein coupled receptor 56,g protein coupled receptor 56,Levy 2016 - Coelution,10.1002/bit.25882
+198,47,galectin-3-binding protein,galectin 3 binding protein,Levy 2016 - Coelution,10.1002/bit.25882
+199,48,glyceraldehyde-3-phosphate dehydrogenase,glyceraldehyde 3 phosphate dehydrogenase,Levy 2016 - Coelution,10.1002/bit.25882
+200,49,glypican-1,glypican 1,Levy 2016 - Coelution,10.1002/bit.25882
+201,50,immunoglobulin superfamily member 8,immunoglobulin superfamily member 8,Levy 2016 - Coelution,10.1002/bit.25882
+202,51,inter-alpha-trypsin inhibitor heavy chain h5,inter alpha trypsin inhibitor heavy chain h5,Levy 2016 - Coelution,10.1002/bit.25882
+203,52,lactadherin,lactadherin,Levy 2016 - Coelution,10.1002/bit.25882
+204,53,laminin subunit beta-1,laminin subunit beta 1,Levy 2016 - Coelution,10.1002/bit.25882
+205,54,laminin subunit gamma-1,laminin subunit gamma 1,Levy 2016 - Coelution,10.1002/bit.25882
+206,55,legumain,legumain,Levy 2016 - Coelution,10.1002/bit.25882
+207,56,lipoprotein lipase,lipoprotein lipase,Levy 2016 - Coelution,10.1002/bit.25882
+208,57,matrix metalloproteinase-9,matrix metalloproteinase 9,Levy 2016 - Coelution,10.1002/bit.25882
+209,58,metalloproteinase inhibitor 1,metalloproteinase inhibitor 1,Levy 2016 - Coelution,10.1002/bit.25882
+210,59,n-acetylglucosamine-6-sulfatase,n acetylglucosamine 6 sulfatase,Levy 2016 - Coelution,10.1002/bit.25882
+211,60,n-sulphoglucosamine sulphohydrolase,n sulphoglucosamine sulphohydrolase,Levy 2016 - Coelution,10.1002/bit.25882
+212,61,nidogen-1,nidogen 1,Levy 2016 - Coelution,10.1002/bit.25882
+213,62,nucleobindin-2,nucleobindin 2,Levy 2016 - Coelution,10.1002/bit.25882
+214,63,peptidyl-glycine alpha-amidating monooxygenase b,peptidyl glycine alpha amidating monooxygenase b,Levy 2016 - Coelution,10.1002/bit.25882
+215,64,procollagen c-endopeptidase enhancer 1,procollagen c endopeptidase enhancer 1,Levy 2016 - Coelution,10.1002/bit.25882
+216,65,"procollagen-lysine,2-oxoglutarate 5-dioxygenase 1",procollagen lysine2 oxoglutarate 5 dioxygenase 1,Levy 2016 - Coelution,10.1002/bit.25882
+217,66,ribonuclease t2,ribonuclease t2,Levy 2016 - Coelution,10.1002/bit.25882
+218,67,semaphorin-3c,semaphorin 3c,Levy 2016 - Coelution,10.1002/bit.25882
+219,68,sparc,sparc,Levy 2016 - Coelution,10.1002/bit.25882
+220,69,syndecan-4,syndecan 4,Levy 2016 - Coelution,10.1002/bit.25882
+221,70,tissue alpha-l-fucosidase,tissue alpha l fucosidase,Levy 2016 - Coelution,10.1002/bit.25882
+222,71,tubulointerstitial nephritis antigen-like,tubulointerstitial nephritis antigen like,Levy 2016 - Coelution,10.1002/bit.25882
+223,0,cornifin-a,cornifin a,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+224,1,peroxiredoxin-1,peroxiredoxin 1,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+225,2,glutathione s-transferase p,glutathione s transferase p,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+226,3,galectin-1,galectin 1,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+227,4,actb,actb,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+228,5,elongation factor 1-alpha 1,elongation factor 1 alpha 1,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+229,6,glutathione s-transferase mu 6,glutathione s transferase mu 6,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+230,7,c-c motif chemokine,c c motif chemokine,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+231,8,clusterin,clusterin,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+232,9,protein s100-a6,protein s100 a6,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+233,10,metalloproteinase inhibitor 1,metalloproteinase inhibitor 1,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+234,11,follistatin-related protein 1,follistatin related protein 1,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+235,12,beta-2-microglobulin,beta 2 microglobulin,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+236,13,protein s100-a11,protein s100 a11,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+237,14,peptidyl-prolyl cis-trans isomerase,peptidyl prolyl cis trans isomerase,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+238,15,"fatty acid-binding protein, adipocyte",fatty acid binding protein adipocyte,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+239,16,phospholipase b-like,phospholipase b like,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+240,17,40s ribosomal protein s28,40s ribosomal protein s28,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+241,18,c-x-c motif chemokine,c x c motif chemokine,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+242,19,endoplasmic reticulum chaperone bip,endoplasmic reticulum chaperone bip,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+243,20,procollagen c-endopeptidase enhancer 1,procollagen c endopeptidase enhancer 1,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+244,21,pcbp1,pcbp1,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+245,22,40s ribosomal protein s12,40s ribosomal protein s12,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+246,23,carboxypeptidase,carboxypeptidase,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+247,24,glutathione s-transferase,glutathione s transferase,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+248,25,protein cyr61,protein cyr61,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+249,26,igfbp4,igfbp4,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+250,27,cofilin-1,cofilin 1,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+251,28,flavin reductase,flavin reductase,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+252,29,inter-alpha-trypsin inhibitor heavy chain h5,inter alpha trypsin inhibitor heavy chain h5,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+253,30,peptidyl-prolyl cis-trans isomerase a,peptidyl prolyl cis trans isomerase a,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+254,31,cathepsin d,cathepsin d,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+255,32,complement c1r-a subcomponent,complement c1r a subcomponent,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+256,33,ubiquitin,ubiquitin,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+257,34,adam 9,adam 9,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+258,35,protein dj-1,protein dj 1,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+259,36,lipoprotein lipase,lipoprotein lipase,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+260,37,protein s100-a10,protein s100 a10,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+261,38,glucosylceramidase,glucosylceramidase,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+262,39,tnfsf9,tnfsf9,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+263,40,cathepsin b,cathepsin b,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+264,41,cathepsin l1,cathepsin l1,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+265,42,g-protein coupled receptor 56,g protein coupled receptor 56,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+266,43,dihydropteridine reductase,dihydropteridine reductase,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+267,44,phosphoglycerate kinase 1,phosphoglycerate kinase 1,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+268,45,40s ribosomal protein s20,40s ribosomal protein s20,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+269,46,collagen alpha-,collagen alpha ,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+270,47,serpin b6,serpin b6,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+271,48,cystatin,cystatin,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+272,49,lipase,lipase,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+273,50,drebrin,drebrin,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+274,51,coatamer subunit beta,coatamer subunit beta,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+275,52,st3gal1,st3gal1,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+276,53,antileukoproteinase,antileukoproteinase,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+277,54,roundabout-like 2,roundabout like 2,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+278,55,serine protease htra1,serine protease htra1,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+279,56,atrial natriuretic factor,atrial natriuretic factor,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+280,57,sulfated glycoprotein 1,sulfated glycoprotein 1,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+281,58,copper chaperone for superoxide dismutase,copper chaperone for superoxide dismutase,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+282,59,vitamin k-dependent protein s,vitamin k dependent protein s,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+283,60,s-phase kinase-associated protein 1,s phase kinase associated protein 1,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+284,61,barrier-to-autointegration factor,barrier to autointegration factor,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+285,62,sepiapterin reductase,sepiapterin reductase,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+286,63,suprabasin,suprabasin,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+287,64,ribonuclease inhibitor,ribonuclease inhibitor,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+288,65,u6 snrna-associated sm-like protein lsm6,u6 snrna associated sm like protein lsm6,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+289,66,galectin,galectin,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+290,67,adam 15,adam 15,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+291,68,eukaryotic translation initiation factor 6,eukaryotic translation initiation factor 6,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+292,69,nudc domain-containing protein 2,nudc domain containing protein 2,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+293,70,phosphoglycolate phosphatase,phosphoglycolate phosphatase,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+294,71,erp44,erp44,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+295,72,14-3-3 protein theta,14 3 3 protein theta,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+296,73,tbc1 domain family member 13,tbc1 domain family member 13,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+297,74,annexin a2,annexin a2,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+298,75,annexin a1,annexin a1,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+299,76,stromal cell-derived factor 2-like protein 1,stromal cell derived factor 2 like protein 1,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+300,77,acid ceramidase,acid ceramidase,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+301,78,ctsz,ctsz,Molden 2021 - 29 DS,10.1080/19420862.2021.1955811
+302,0,endoplasmin,endoplasmin,Falkenberg 2019 - 6 DS,10.1002/btpr.2788
+303,1,plectin,plectin,Falkenberg 2019 - 6 DS,10.1002/btpr.2788
+304,2,laminin subunit beta-1 isoform x1,laminin subunit beta 1 isoform x1,Falkenberg 2019 - 6 DS,10.1002/btpr.2788
+305,3,peroxiredoxin-1,peroxiredoxin 1,Falkenberg 2019 - 6 DS,10.1002/btpr.2788
+306,4,chondroitin sulfate proteoglycan 4,chondroitin sulfate proteoglycan 4,Falkenberg 2019 - 6 DS,10.1002/btpr.2788
+307,5,basement membrane-specific heparan sulfate proteoglycan core protein isoform x1,basement membrane specific heparan sulfate proteoglycan core protein isoform x1,Falkenberg 2019 - 6 DS,10.1002/btpr.2788
+308,6,neuroblast differentiation-associated protein ahnak isoform x2,neuroblast differentiation associated protein ahnak isoform x2,Falkenberg 2019 - 6 DS,10.1002/btpr.2788
+309,7,dnak-type molecular chaperone grp78 precursor,dnak type molecular chaperone grp78 precursor,Falkenberg 2019 - 6 DS,10.1002/btpr.2788
+310,8,interalpha-trypsin inhibitor heavy chain h5 isoform x2,interalpha trypsin inhibitor heavy chain h5 isoform x2,Falkenberg 2019 - 6 DS,10.1002/btpr.2788
+311,9,annexin a2 isoform x3,annexin a2 isoform x3,Falkenberg 2019 - 6 DS,10.1002/btpr.2788
+312,0,putative phospholipase b-like 2,putative phospholipase b like 2,Kreimer 2017 - 1 DS,10.1021/acs.analchem.6b04892
+313,1,traf3-interacting protein 1 isoform x2,traf3 interacting protein 1 isoform x2,Kreimer 2017 - 1 DS,10.1021/acs.analchem.6b04892
+314,2,e3-ubiquitin ligase,e3 ubiquitin ligase,Kreimer 2017 - 1 DS,10.1021/acs.analchem.6b04892
+315,3,sister chromatid cohesion protein pds5,sister chromatid cohesion protein pds5,Kreimer 2017 - 1 DS,10.1021/acs.analchem.6b04892
+316,4,26s proteasome non-atpase regulatory 5,26s proteasome non atpase regulatory 5,Kreimer 2017 - 1 DS,10.1021/acs.analchem.6b04892
+317,5,clusterin,clusterin,Kreimer 2017 - 1 DS,10.1021/acs.analchem.6b04892
+318,6,uncharacterized protein c15orf39,uncharacterized protein c15orf39,Kreimer 2017 - 1 DS,10.1021/acs.analchem.6b04892
+319,7,lactotransferrin,lactotransferrin,Kreimer 2017 - 1 DS,10.1021/acs.analchem.6b04892
+320,8,78 kda glucose-regulated protein precursor,78 kda glucose regulated protein precursor,Kreimer 2017 - 1 DS,10.1021/acs.analchem.6b04892
+321,9,dna repair protein rad52,dna repair protein rad52,Kreimer 2017 - 1 DS,10.1021/acs.analchem.6b04892
+322,10,lysosomal acid lipase,lysosomal acid lipase,Kreimer 2017 - 1 DS,10.1021/acs.analchem.6b04892
+323,11,peptidyl-prolyl cis−trans isomerase b,peptidyl prolyl cis−trans isomerase b,Kreimer 2017 - 1 DS,10.1021/acs.analchem.6b04892
+324,12,protein disulfide-isomeras,protein disulfide isomeras,Kreimer 2017 - 1 DS,10.1021/acs.analchem.6b04892
+325,13,uncharacterized protein loc100755734,uncharacterized protein loc100755734,Kreimer 2017 - 1 DS,10.1021/acs.analchem.6b04892
+326,14,ubiquitin,ubiquitin,Kreimer 2017 - 1 DS,10.1021/acs.analchem.6b04892
+327,15,peroxiredoxin-1,peroxiredoxin 1,Kreimer 2017 - 1 DS,10.1021/acs.analchem.6b04892
