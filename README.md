@@ -1,4 +1,4 @@
-# mAb_aggregate_process_behavior
+# Behavior of HCP-rich aggregates in mAb bioprocessing
 
 This repository contains information relevant to the manuscript
 
