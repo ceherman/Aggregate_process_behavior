@@ -1,0 +1,2 @@
+"Sample Set Name","Sample Set Start Date","SampleName","Acq Method Set","Date Acquired","Injection Volume","Channel","Channel Description","Channel Id","Channel Type","Det. Units"
+"CH_2022_01_11_mAb4_SEC_2","1/11/2022 1:59:35 PM","mAb4pH5p4","OYH SEC test 20200706","1/11/2022 3:21:35 PM",100.00,"W2996 280.0nm-1.2","W2996 PDA 280.0 nm at 1.2",18140,"2D","AU"

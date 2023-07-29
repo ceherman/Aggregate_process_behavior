@@ -1,0 +1,2 @@
+"Sample Set Name","Sample Set Start Date","SampleName","Acq Method Set","Date Acquired","Injection Volume","Channel","Channel Description","Channel Id","Channel Type","Det. Units"
+"CH_2022_08_03_dialysis_exp","8/3/2022 12:06:56 PM","PAFVIN_large_permeate","CH_SEC_A_600","8/3/2022 1:10:13 PM",100.00,"W2996 280.0nm-1.2","W2996 PDA 280.0 nm at 1.2",21198,"2D","AU"

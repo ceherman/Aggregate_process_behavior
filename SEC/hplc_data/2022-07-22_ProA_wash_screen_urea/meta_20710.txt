@@ -1,0 +1,2 @@
+"Sample Set Name","Sample Set Start Date","SampleName","Acq Method Set","Date Acquired","Injection Volume","Channel","Channel Description","Channel Id","Channel Type","Det. Units"
+"CH_2022_07_22_ProA_wash_screen","7/22/2022 10:42:23 PM","v3_8_arginine_B5_100","CH_SEC_A_600","7/22/2022 10:49:16 PM",100.00,"W2996 254.0nm-1.2","W2996 PDA 254.0 nm at 1.2",20710,"2D","AU"

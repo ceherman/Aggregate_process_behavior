@@ -1,0 +1,2 @@
+"Sample Set Name","Sample Set Start Date","SampleName","Acq Method Set","Date Acquired","Injection Volume","Channel","Channel Description","Channel Id","Channel Type","Det. Units"
+"CH_2022_09_19_90ZB_HCCF_050","9/19/2022 7:33:30 PM","A07","CH_SEC_A_600","9/20/2022 12:17:51 AM",100.00,"W2996 280.0nm-1.2","W2996 PDA 280.0 nm at 1.2",23282,"2D","AU"

@@ -1,0 +1,2 @@
+"Sample Set Name","Sample Set Start Date","SampleName","Acq Method Set","Date Acquired","Injection Volume","Channel","Channel Description","Channel Id","Channel Type","Det. Units"
+"CH_2022_08_23_AEX_FT_HQ","8/23/2022 12:45:46 PM","HQ_2D01_080","CH_SEC_A_600","8/25/2022 6:42:17 AM",100.00,"W2996 280.0nm-1.2","W2996 PDA 280.0 nm at 1.2",22288,"2D","AU"

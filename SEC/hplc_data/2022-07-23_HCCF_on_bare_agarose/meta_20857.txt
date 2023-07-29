@@ -1,0 +1,2 @@
+"Sample Set Name","Sample Set Start Date","SampleName","Acq Method Set","Date Acquired","Injection Volume","Channel","Channel Description","Channel Id","Channel Type","Det. Units"
+"CH_2022_07_23_bare_agaro_hccf","7/23/2022 3:43:22 PM","hccf_feed","CH_SEC_A_600","7/24/2022 3:58:26 AM",100.00,"W2996 254.0nm-1.2","W2996 PDA 254.0 nm at 1.2",20857,"2D","AU"

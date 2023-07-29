@@ -1,0 +1,2 @@
+"Sample Set Name","Sample Set Start Date","SampleName","Acq Method Set","Date Acquired","Injection Volume","Channel","Channel Description","Channel Id","Channel Type","Det. Units"
+"CH_2023_03_18_PrismA_10s","3/18/2023 9:51:25 AM","A10","CH_SEC_A_600","3/18/2023 3:52:28 PM",100.00,"W2996 254.0nm-1.2","W2996 PDA 254.0 nm at 1.2",23798,"2D","AU"

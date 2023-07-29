@@ -1,0 +1,2 @@
+"Sample Set Name","Sample Set Start Date","SampleName","Acq Method Set","Date Acquired","Injection Volume","Channel","Channel Description","Channel Id","Channel Type","Det. Units"
+"CH_2022_07_19_ProA_full_sat_2a","7/19/2022 5:09:34 PM","elution_0177_1_100","CH_SEC_A_600","7/19/2022 5:21:26 PM",100.00,"W2996 254.0nm-1.2","W2996 PDA 254.0 nm at 1.2",20572,"2D","AU"

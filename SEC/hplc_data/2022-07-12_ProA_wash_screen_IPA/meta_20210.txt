@@ -1,0 +1,2 @@
+"Sample Set Name","Sample Set Start Date","SampleName","Acq Method Set","Date Acquired","Injection Volume","Channel","Channel Description","Channel Id","Channel Type","Det. Units"
+"CH_2022_07_12_ProA_wash_v3_3","7/14/2022 6:26:57 PM","v3_3_IPA_A5_050","CH_SEC_A_600","7/14/2022 8:50:49 PM",100.00,"W2996 254.0nm-1.2","W2996 PDA 254.0 nm at 1.2",20210,"2D","AU"

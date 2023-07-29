@@ -1,0 +1,2 @@
+"Sample Set Name","Sample Set Start Date","SampleName","Acq Method Set","Date Acquired","Injection Volume","Channel","Channel Description","Channel Id","Channel Type","Det. Units"
+"CH_2022_06_20_PrADisp_low_pH_2","6/20/2022 1:30:54 PM","Water","CH_SEC_A_600","6/20/2022 9:37:39 PM",100.00,"W2996 254.0nm-1.2","W2996 PDA 254.0 nm at 1.2",19873,"2D","AU"
